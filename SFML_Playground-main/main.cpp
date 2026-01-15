@@ -29,8 +29,9 @@
 // 
 int main()
 {
-
-	sf::RenderWindow window(sf::VideoMode({ 600, 600 }, 32), "Sprites", sf::Style::Default);
+	const int SCREEN_WIDTH = 600;
+	const int SCREEN_HEIGHT = 400;
+	sf::RenderWindow window(sf::VideoMode({ SCREEN_WIDTH, SCREEN_HEIGHT }, 32), "Sprites", sf::Style::Default);
 
 
 	window.setFramerateLimit(60);
@@ -57,7 +58,7 @@ int main()
 
 	srand(time(NULL));
 
-	const int numCircles = 10;
+	const int numCircles = 15;
 	sf::CircleShape circles[numCircles];
 
 	for (int index = 0; index < numCircles; index++)
@@ -65,9 +66,7 @@ int main()
 		circles[index].setFillColor(sf::Color::White);
 		circles[index].setRadius(10);
 		circles[index].setOrigin(sf::Vector2f(10, 10));
-		circles[index].setPosition(sf::Vector2f(40 * index, 200));
-
-
+		circles[index].setPosition(sf::Vector2f(40 * index + 21, 200));
 	}
 
 	float xPosition = rand() % 800;
@@ -96,9 +95,6 @@ int main()
 					window.close();
 			}
 		}
-
-
-
 
 
 		if (pacmanFrameCounter >= 60 / pacmanframesPerSecond)
