@@ -85,7 +85,7 @@ int main()
 
 	float xPosition = rand() % 800;
 	float yPosition = 200;
-	float speed = 1;
+	float speed = 3;
 	bool spacePressed = false;
 	int pacmanframesPerSecond = 10;
 	int pacmanNumFramesinAnim = 3;
@@ -109,7 +109,6 @@ int main()
 					window.close();
 			}
 		}
-
 
 		if (pacmanFrameCounter >= 60 / pacmanframesPerSecond)
 		{
@@ -170,6 +169,24 @@ int main()
 			}
 
 		}
+		bool circlesGone = true;
+		for (int i = 0; i < numCircles; i++)
+		{
+			if (circles[i].getPosition().x < 1000)
+			{
+				circlesGone = false;
+				break;
+			}
+		}
+
+		if (circlesGone)
+		{
+			for (int i = 0; i < numCircles; i++)
+			{
+				circles[i].setPosition(sf::Vector2f(20.f + i * 40.f, yPosition));
+			}
+		}
+
 
 		sf::Vector2f pos = simpleRectangle.getPosition();
 
