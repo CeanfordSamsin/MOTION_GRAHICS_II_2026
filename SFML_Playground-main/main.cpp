@@ -33,6 +33,20 @@ int main()
 	const int SCREEN_HEIGHT = 400;
 	sf::RenderWindow window(sf::VideoMode({ SCREEN_WIDTH, SCREEN_HEIGHT }, 32), "Sprites", sf::Style::Default);
 
+	//text
+	sf::Font font;
+	if (!font.openFromFile("resources/fonts/arial.ttf"))
+	{
+		std::cout << "Failed to load font";
+	}
+
+	sf::Text scoreText(font);
+	scoreText.setString("Score: 0");
+	scoreText.setCharacterSize(24);
+	scoreText.setFillColor(sf::Color::White);
+	scoreText.setPosition({ 10.f, 10.f });
+	int score = 0;
+
 
 	window.setFramerateLimit(60);
 	sf::RectangleShape simpleRectangle;
@@ -150,6 +164,8 @@ int main()
 			if (pacmanSprite.getGlobalBounds().findIntersection(circles[index].getGlobalBounds()))
 			{
 				circles[index].setPosition(sf::Vector2f(1000, 1000));
+				score++;
+				scoreText.setString("Score: " + std::to_string(score));
 
 			}
 
@@ -176,7 +192,7 @@ int main()
 		}
 		//window.draw(simpleRectangle);
 		window.draw(pacmanSprite);
-
+		window.draw(scoreText);
 
 		window.display();
 
