@@ -59,6 +59,15 @@ int main()
 		std::cout << "failed to load sprite";
 	}
 
+	sf::Texture pacmanatlas;
+	if (!pacmanatlas.loadFromFile("resources/images/pacmanatlas.png"))
+	{
+		// error...
+		std::cout << "failed to load atlas";
+	}
+	
+	sf::Sprite powerup(pacmanatlas);
+	powerup.setTextureRect(pacmanatlas, IntRect(({485, 0}, {17, 16}));
 
 	sf::Sprite pacmanSprite(pacman3tex);;
 
