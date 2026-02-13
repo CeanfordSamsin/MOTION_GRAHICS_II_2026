@@ -118,6 +118,21 @@ void drawRightAngledTriangle()
 }
 void drawIsocelesTriangle()
 {
+	for (int i = 1; i <= 5; i++)
+	{
+		for (int j = 1; j <= 5; j++)
+		{
+			if (j <= 6 - i)
+			{
+				std::cout << '*';
+			}
+			else
+			{
+				std::cout << ' ';
+			}
+		}
+		std::cout << std::endl;
+	}
 
 }
 void drawIsocelesTriangle2()
@@ -127,20 +142,63 @@ void drawIsocelesTriangle2()
 
 int find(int size, int arr[], int toFind)
 {
+	for (int i = 0; i < size; i++)
+	{
+		if (arr[i] == toFind)
+		{
+			std::cout << i << std::endl;
+			return -1;
+		}
+	}
+	std::cout << -1 << std::endl;
 	return -1;
 }
 int find2ndLargest(int size, int arr[])
 {
-	return -1;
+	if (size < 2)
+	{
+		return -1;
+	}
+
+	int largest = -1;
+	int secondLargest = -1;
+
+	for (int i = 0; i < size; i++)
+	{
+		if (arr[i] > largest)
+		{
+			secondLargest = largest;
+			largest = arr[i];
+		}
+		else if (arr[i] > secondLargest && arr[i] < largest)
+		{
+			secondLargest = arr[i];
+		}
+	}
+	return secondLargest;
 }
 void copyArraytoArray(int size, int arr1[], int arr2[])
 {
-	return;
+	for (int i = 0; i < size; i++)
+	{
+		arr2[i] = arr1[i];
+	}
 }
 bool insertElement(int& size, int& count, int arr[], int elementToInsert, int insertIndex)
 {
+	if (count >= size || insertIndex < 0 || insertIndex > count)
+	{
+		return false;
+	}
 
-	return false;
+	for (int i = count; i > insertIndex; i--)
+	{
+		arr[i] = arr[i - 1];
+	}
+
+	arr[insertIndex] = elementToInsert;
+	count++;
+	return true;
 }
 bool deleteElement(int& size, int& count, int arr[], int deleteIndex)
 {
