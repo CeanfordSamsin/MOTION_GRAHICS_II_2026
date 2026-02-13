@@ -53,10 +53,24 @@ bool isAPalindrome(int testNumber)
 	return original == reversed;
 	
 }
+
 bool isAPrimeNumber(int numbertoTest)
 {
-	return false;
+	if (numbertoTest <= 1)
+	{
+		return false;
+	}
+
+	for(int i = 2; i * i <= numbertoTest; i++)
+	{
+		if (numbertoTest % i == 0)
+		{
+			return false;
+		}
+	}
+	return true;
 }
+
 int input5CharsConvertToInt()
 {
 	int returnInt = 0;
@@ -66,16 +80,40 @@ int input5CharsConvertToInt()
 		std::cin >> inputChar;
 		//check if its a digit.
 		//do something
+		if (inputChar < '0' || inputChar > '9')
+		{
+			return 0;
+		}
+		returnInt = returnInt * 10 + (inputChar - '0');
 
 	}
 	return returnInt;
 }
 int convertBinarytoDecimal(int binaryNumber)
 {
-	return 0;
+	int decimalNumber = 0;
+	int base = 1;
+
+	while (binaryNumber > 0)
+	{
+		int lastDigit = binaryNumber % 10;
+		decimalNumber = decimalNumber + lastDigit * base;
+		base = base * 2;
+		binaryNumber = binaryNumber / 10;
+	}
+
+	return decimalNumber;
 }
 void drawRightAngledTriangle()
 {
+	for (int i = 1; i <= 5; i++)
+	{
+		for (int j = 1; j <= i; j++)
+		{
+			std::cout << '*';
+		}
+		std::cout << std::endl;
+	}
 
 }
 void drawIsocelesTriangle()

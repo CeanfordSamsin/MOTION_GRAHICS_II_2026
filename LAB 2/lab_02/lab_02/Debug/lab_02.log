@@ -2,103 +2,97 @@
 C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(31,18): warning C4100: 'testNumber': unreferenced formal parameter
   (compiling source file 'lab2.cpp')
   
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(56,25): warning C4100: 'numbertoTest': unreferenced formal parameter
+C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(128,35): warning C4100: 'toFind': unreferenced formal parameter
   (compiling source file 'lab2.cpp')
   
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(73,32): warning C4100: 'binaryNumber': unreferenced formal parameter
+C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(128,24): warning C4100: 'arr': unreferenced formal parameter
   (compiling source file 'lab2.cpp')
   
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(90,35): warning C4100: 'toFind': unreferenced formal parameter
+C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(128,14): warning C4100: 'size': unreferenced formal parameter
   (compiling source file 'lab2.cpp')
   
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(90,24): warning C4100: 'arr': unreferenced formal parameter
+C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(132,34): warning C4100: 'arr': unreferenced formal parameter
   (compiling source file 'lab2.cpp')
   
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(90,14): warning C4100: 'size': unreferenced formal parameter
+C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(132,24): warning C4100: 'size': unreferenced formal parameter
   (compiling source file 'lab2.cpp')
   
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(94,34): warning C4100: 'arr': unreferenced formal parameter
+C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(136,49): warning C4100: 'arr2': unreferenced formal parameter
   (compiling source file 'lab2.cpp')
   
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(94,24): warning C4100: 'size': unreferenced formal parameter
+C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(136,37): warning C4100: 'arr1': unreferenced formal parameter
   (compiling source file 'lab2.cpp')
   
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(98,49): warning C4100: 'arr2': unreferenced formal parameter
+C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(136,27): warning C4100: 'size': unreferenced formal parameter
   (compiling source file 'lab2.cpp')
   
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(98,37): warning C4100: 'arr1': unreferenced formal parameter
+C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(140,79): warning C4100: 'insertIndex': unreferenced formal parameter
   (compiling source file 'lab2.cpp')
   
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(98,27): warning C4100: 'size': unreferenced formal parameter
+C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(140,58): warning C4100: 'elementToInsert': unreferenced formal parameter
   (compiling source file 'lab2.cpp')
   
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(102,79): warning C4100: 'insertIndex': unreferenced formal parameter
+C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(140,47): warning C4100: 'arr': unreferenced formal parameter
   (compiling source file 'lab2.cpp')
   
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(102,58): warning C4100: 'elementToInsert': unreferenced formal parameter
+C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(140,36): warning C4100: 'count': unreferenced formal parameter
   (compiling source file 'lab2.cpp')
   
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(102,47): warning C4100: 'arr': unreferenced formal parameter
+C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(140,25): warning C4100: 'size': unreferenced formal parameter
   (compiling source file 'lab2.cpp')
   
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(102,36): warning C4100: 'count': unreferenced formal parameter
+C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(145,58): warning C4100: 'deleteIndex': unreferenced formal parameter
   (compiling source file 'lab2.cpp')
   
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(102,25): warning C4100: 'size': unreferenced formal parameter
+C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(145,47): warning C4100: 'arr': unreferenced formal parameter
   (compiling source file 'lab2.cpp')
   
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(107,58): warning C4100: 'deleteIndex': unreferenced formal parameter
+C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(145,36): warning C4100: 'count': unreferenced formal parameter
   (compiling source file 'lab2.cpp')
   
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(107,47): warning C4100: 'arr': unreferenced formal parameter
+C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(145,25): warning C4100: 'size': unreferenced formal parameter
   (compiling source file 'lab2.cpp')
   
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(107,36): warning C4100: 'count': unreferenced formal parameter
+C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(150,45): warning C4100: 'value': unreferenced formal parameter
   (compiling source file 'lab2.cpp')
   
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(107,25): warning C4100: 'size': unreferenced formal parameter
+C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(150,34): warning C4100: 'arr': unreferenced formal parameter
   (compiling source file 'lab2.cpp')
   
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(112,45): warning C4100: 'value': unreferenced formal parameter
+C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(150,24): warning C4100: 'size': unreferenced formal parameter
   (compiling source file 'lab2.cpp')
   
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(112,34): warning C4100: 'arr': unreferenced formal parameter
+C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(155,35): warning C4100: 'arr': unreferenced formal parameter
   (compiling source file 'lab2.cpp')
   
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(112,24): warning C4100: 'size': unreferenced formal parameter
+C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(155,25): warning C4100: 'size': unreferenced formal parameter
   (compiling source file 'lab2.cpp')
   
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(117,35): warning C4100: 'arr': unreferenced formal parameter
+C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(160,28): warning C4100: 'arr': unreferenced formal parameter
   (compiling source file 'lab2.cpp')
   
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(117,25): warning C4100: 'size': unreferenced formal parameter
+C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(160,18): warning C4100: 'size': unreferenced formal parameter
   (compiling source file 'lab2.cpp')
   
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(122,28): warning C4100: 'arr': unreferenced formal parameter
+C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(164,30): warning C4100: 'arr': unreferenced formal parameter
   (compiling source file 'lab2.cpp')
   
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(122,18): warning C4100: 'size': unreferenced formal parameter
+C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(164,20): warning C4100: 'size': unreferenced formal parameter
   (compiling source file 'lab2.cpp')
   
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(126,30): warning C4100: 'arr': unreferenced formal parameter
+C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(168,58): warning C4100: 'size': unreferenced formal parameter
   (compiling source file 'lab2.cpp')
   
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(126,20): warning C4100: 'size': unreferenced formal parameter
+C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(168,38): warning C4100: 'movieLengths': unreferenced formal parameter
   (compiling source file 'lab2.cpp')
   
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(130,58): warning C4100: 'size': unreferenced formal parameter
+C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(168,20): warning C4100: 'flightLength': unreferenced formal parameter
   (compiling source file 'lab2.cpp')
   
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(130,38): warning C4100: 'movieLengths': unreferenced formal parameter
+C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(172,32): warning C4100: 'characters': unreferenced formal parameter
   (compiling source file 'lab2.cpp')
   
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(130,20): warning C4100: 'flightLength': unreferenced formal parameter
-  (compiling source file 'lab2.cpp')
-  
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(134,32): warning C4100: 'characters': unreferenced formal parameter
-  (compiling source file 'lab2.cpp')
-  
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(134,21): warning C4100: 'size': unreferenced formal parameter
+C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(172,21): warning C4100: 'size': unreferenced formal parameter
   (compiling source file 'lab2.cpp')
   
 C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(28,1): warning C4702: unreachable code
