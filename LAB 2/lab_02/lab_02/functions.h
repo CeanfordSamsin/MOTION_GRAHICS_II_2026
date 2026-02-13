@@ -3,6 +3,28 @@
 
 bool isLeapYear(int year)
 {
+	if (year % 4 == 0)
+	{
+		if (year % 100 == 0)
+		{
+			if (year % 400 == 0)
+			{
+				return true;
+			}
+			else 
+			{
+				return false;
+			}
+		}
+		else 
+		{
+			return true;
+		}
+	}
+	else 
+	{
+		return false;
+	}
 	return true;
 }
 
@@ -12,7 +34,24 @@ int Reversed(int testNumber)
 }
 bool isAPalindrome(int testNumber)
 {
-	return false;
+	int original = testNumber;
+	int reversed = 0;
+
+	//handle negative numbers as not palindromes
+	if (testNumber < 0)
+	{
+		return false;
+	}
+
+	while (testNumber > 0)
+	{
+		int digit = testNumber % 10;
+		reversed = reversed * 10 + digit;
+		testNumber = testNumber / 10;
+	}
+
+	return original == reversed;
+	
 }
 bool isAPrimeNumber(int numbertoTest)
 {

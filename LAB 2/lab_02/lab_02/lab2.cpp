@@ -1,5 +1,8 @@
 #include "functions.h"
+#include <iostream>
+
 // Test for Questions 1 to 8
+
 int main()
 {
 	std::cout << "Leapyear" << std::endl;
