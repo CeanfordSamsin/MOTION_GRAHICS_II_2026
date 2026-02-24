@@ -25,7 +25,6 @@ bool isLeapYear(int year)
 	{
 		return false;
 	}
-	return true;
 }
 
 int Reversed(int testNumber)

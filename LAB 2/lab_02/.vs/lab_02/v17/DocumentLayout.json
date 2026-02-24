@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ceanf\\OneDrive\\Desktop\\motion\\MOTION_GRAHICS_II_2026\\LAB 2\\lab_02\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{58EA1F7A-0046-456E-946D-460983F9BE55}|lab_02\\lab_02.vcxproj|C:\\Users\\ceanf\\OneDrive\\Desktop\\motion\\MOTION_GRAHICS_II_2026\\LAB 2\\lab_02\\lab_02\\lab2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{58EA1F7A-0046-456E-946D-460983F9BE55}|lab_02\\lab_02.vcxproj|solutionrelative:lab_02\\lab2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{58EA1F7A-0046-456E-946D-460983F9BE55}|lab_02\\lab_02.vcxproj|C:\\Users\\ceanf\\OneDrive\\Desktop\\motion\\MOTION_GRAHICS_II_2026\\LAB 2\\lab_02\\lab_02\\functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{58EA1F7A-0046-456E-946D-460983F9BE55}|lab_02\\lab_02.vcxproj|solutionrelative:lab_02\\functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58EA1F7A-0046-456E-946D-460983F9BE55}|lab_02\\lab_02.vcxproj|C:\\Users\\ceanf\\OneDrive\\Desktop\\motion\\MOTION_GRAHICS_II_2026\\LAB 2\\lab_02\\lab_02\\lab2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{58EA1F7A-0046-456E-946D-460983F9BE55}|lab_02\\lab_02.vcxproj|solutionrelative:lab_02\\lab2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{58EA1F7A-0046-456E-946D-460983F9BE55}|lab_02\\lab_02.vcxproj|C:\\Users\\ceanf\\OneDrive\\Desktop\\motion\\MOTION_GRAHICS_II_2026\\LAB 2\\lab_02\\lab_02\\lab2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{58EA1F7A-0046-456E-946D-460983F9BE55}|lab_02\\lab_02.vcxproj|solutionrelative:lab_02\\lab2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "functions.h",
               "DocumentMoniker": "C:\\Users\\ceanf\\OneDrive\\Desktop\\motion\\MOTION_GRAHICS_II_2026\\LAB 2\\lab_02\\lab_02\\functions.h",
               "RelativeDocumentMoniker": "lab_02\\functions.h",
               "ToolTip": "C:\\Users\\ceanf\\OneDrive\\Desktop\\motion\\MOTION_GRAHICS_II_2026\\LAB 2\\lab_02\\lab_02\\functions.h",
               "RelativeToolTip": "lab_02\\functions.h",
-              "ViewState": "AgIAADcAAAAAAAAAAADwv1kAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-13T14:09:19.24Z",
+              "WhenOpened": "2026-02-23T23:57:41.773Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "lab2.cpp",
               "DocumentMoniker": "C:\\Users\\ceanf\\OneDrive\\Desktop\\motion\\MOTION_GRAHICS_II_2026\\LAB 2\\lab_02\\lab_02\\lab2.cpp",
               "RelativeDocumentMoniker": "lab_02\\lab2.cpp",
               "ToolTip": "C:\\Users\\ceanf\\OneDrive\\Desktop\\motion\\MOTION_GRAHICS_II_2026\\LAB 2\\lab_02\\lab_02\\lab2.cpp",
               "RelativeToolTip": "lab_02\\lab2.cpp",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAALYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-13T13:52:20.349Z",
+              "WhenOpened": "2026-02-23T23:49:20.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lab2.h",
+              "DocumentMoniker": "C:\\Users\\ceanf\\OneDrive\\Desktop\\motion\\MOTION_GRAHICS_II_2026\\LAB 2\\lab_02\\lab_02\\lab2.h",
+              "RelativeDocumentMoniker": "lab_02\\lab2.h",
+              "ToolTip": "C:\\Users\\ceanf\\OneDrive\\Desktop\\motion\\MOTION_GRAHICS_II_2026\\LAB 2\\lab_02\\lab_02\\lab2.h",
+              "RelativeToolTip": "lab_02\\lab2.h",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-23T23:48:31.767Z",
               "EditorCaption": ""
             }
           ]

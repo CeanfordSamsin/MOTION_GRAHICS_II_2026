@@ -1,6 +1,5 @@
 ﻿  lab2.cpp
-C:\Users\ceanf\OneDrive\Desktop\motion\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(235,25): warning C4100: 'size': unreferenced parameter
+C:\Users\ceanf\OneDrive\Desktop\motion\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(234,25): warning C4100: 'size': unreferenced parameter
   (compiling source file 'lab2.cpp')
   
-C:\Users\ceanf\OneDrive\Desktop\motion\MOTION_GRAHICS_II_2026\LAB 2\lab_02\lab_02\functions.h(28,1): warning C4702: unreachable code
   lab_02.vcxproj -> C:\Users\ceanf\OneDrive\Desktop\motion\MOTION_GRAHICS_II_2026\LAB 2\lab_02\Debug\lab_02.exe

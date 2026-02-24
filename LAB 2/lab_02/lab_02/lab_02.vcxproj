@@ -31,10 +31,11 @@
     <Media Include="ASSETS\AUDIO\beep.wav" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="lab2.cpp" />
+    <ClInclude Include="functions.h" />
+    <ClInclude Include="lab2.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="functions.h" />
+    <ClCompile Include="lab2.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
