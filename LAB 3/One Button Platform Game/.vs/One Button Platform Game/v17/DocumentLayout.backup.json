@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\C00310517\\Desktop\\MOTION_GRAHICS_II_2026\\LAB 3\\One Button Platform Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB99D01-32A3-4C46-9051-1C164C8BD750}|One Button Platform Game\\One Button Platform Game.vcxproj|C:\\Users\\C00310517\\Desktop\\MOTION_GRAHICS_II_2026\\LAB 3\\One Button Platform Game\\One Button Platform Game\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DB99D01-32A3-4C46-9051-1C164C8BD750}|One Button Platform Game\\One Button Platform Game.vcxproj|solutionrelative:One Button Platform Game\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB99D01-32A3-4C46-9051-1C164C8BD750}|One Button Platform Game\\One Button Platform Game.vcxproj|C:\\Users\\C00310517\\Desktop\\MOTION_GRAHICS_II_2026\\LAB 3\\One Button Platform Game\\One Button Platform Game\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DB99D01-32A3-4C46-9051-1C164C8BD750}|One Button Platform Game\\One Button Platform Game.vcxproj|solutionrelative:One Button Platform Game\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\C00310517\\Desktop\\MOTION_GRAHICS_II_2026\\LAB 3\\One Button Platform Game\\One Button Platform Game\\Game.h",
+              "RelativeDocumentMoniker": "One Button Platform Game\\Game.h",
+              "ToolTip": "C:\\Users\\C00310517\\Desktop\\MOTION_GRAHICS_II_2026\\LAB 3\\One Button Platform Game\\One Button Platform Game\\Game.h",
+              "RelativeToolTip": "One Button Platform Game\\Game.h",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-06T10:08:12.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\C00310517\\Desktop\\MOTION_GRAHICS_II_2026\\LAB 3\\One Button Platform Game\\One Button Platform Game\\Game.cpp",
+              "RelativeDocumentMoniker": "One Button Platform Game\\Game.cpp",
+              "ToolTip": "C:\\Users\\C00310517\\Desktop\\MOTION_GRAHICS_II_2026\\LAB 3\\One Button Platform Game\\One Button Platform Game\\Game.cpp",
+              "RelativeToolTip": "One Button Platform Game\\Game.cpp",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-06T09:42:40.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
