@@ -37,17 +37,10 @@ C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 3\One Button Platform Game
 C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 3\One Button Platform Game\One Button Platform Game\Game.h(84,50): warning C4244:         ]
   (compiling source file 'Game.cpp')
   
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 3\One Button Platform Game\One Button Platform Game\Game.h(149,41): warning C4305: 'argument': truncation from 'double' to 'T'
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 3\One Button Platform Game\One Button Platform Game\Game.h(149,41): warning C4305:         with
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 3\One Button Platform Game\One Button Platform Game\Game.h(149,41): warning C4305:         [
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 3\One Button Platform Game\One Button Platform Game\Game.h(149,41): warning C4305:             T=float
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 3\One Button Platform Game\One Button Platform Game\Game.h(149,41): warning C4305:         ]
+C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 3\One Button Platform Game\One Button Platform Game\Game.h(166,18): warning C4305: '=': truncation from 'double' to 'float'
   (compiling source file 'Game.cpp')
   
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 3\One Button Platform Game\One Button Platform Game\Game.h(157,18): warning C4305: '=': truncation from 'double' to 'float'
-  (compiling source file 'Game.cpp')
-  
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 3\One Button Platform Game\One Button Platform Game\Game.h(164,15): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 3\One Button Platform Game\One Button Platform Game\Game.h(173,15): warning C4305: '=': truncation from 'double' to 'float'
   (compiling source file 'Game.cpp')
   
   main.cpp
@@ -89,17 +82,10 @@ C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 3\One Button Platform Game
 C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 3\One Button Platform Game\One Button Platform Game\Game.h(84,50): warning C4244:         ]
   (compiling source file 'main.cpp')
   
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 3\One Button Platform Game\One Button Platform Game\Game.h(149,41): warning C4305: 'argument': truncation from 'double' to 'T'
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 3\One Button Platform Game\One Button Platform Game\Game.h(149,41): warning C4305:         with
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 3\One Button Platform Game\One Button Platform Game\Game.h(149,41): warning C4305:         [
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 3\One Button Platform Game\One Button Platform Game\Game.h(149,41): warning C4305:             T=float
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 3\One Button Platform Game\One Button Platform Game\Game.h(149,41): warning C4305:         ]
+C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 3\One Button Platform Game\One Button Platform Game\Game.h(166,18): warning C4305: '=': truncation from 'double' to 'float'
   (compiling source file 'main.cpp')
   
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 3\One Button Platform Game\One Button Platform Game\Game.h(157,18): warning C4305: '=': truncation from 'double' to 'float'
-  (compiling source file 'main.cpp')
-  
-C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 3\One Button Platform Game\One Button Platform Game\Game.h(164,15): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\C00310517\Desktop\MOTION_GRAHICS_II_2026\LAB 3\One Button Platform Game\One Button Platform Game\Game.h(173,15): warning C4305: '=': truncation from 'double' to 'float'
   (compiling source file 'main.cpp')
   
   Generating Code...

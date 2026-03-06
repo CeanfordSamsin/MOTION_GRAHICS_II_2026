@@ -140,13 +140,22 @@ else if (levelData[row][col] == 6)
 
 			if (timeSinceLastUpdate > timePerFrame)
 			{
+				float scrollSpeed = -3.7f;
+				if (isSlowed)
+				{
+					scrollSpeed = -1.0f; // Slower speed
+					if (slowClock.getElapsedTime().asSeconds() > 3.0f)
+					{
+						isSlowed = false;
+					}
+				}
 
 				for (int row = 0; row < numRows; row++)
 				{
 					for (int col = 0; col < numCols; col++)
 					{
 
-						level[row][col].move(sf::Vector2f(-3.7, 0));
+						level[row][col].move(sf::Vector2f(scrollSpeed, 0));
 					}
 
 				}
